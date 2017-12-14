@@ -8,13 +8,14 @@ Install this library where you want to use it:
 
     composer require "gocep/wpnonce"
 
-	or via editing composer.json file and then use composer update
-
+or via editing composer.json file and then use composer update
+```JSON
 {
     "require": {
-        "gocep/wpnonce" : "1.0.0"
+        "mahdy/wpnonce" : "1.0.0"
     }
 }
+```
 
 ### WP Nonce in OOP
 
