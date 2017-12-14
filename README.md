@@ -12,7 +12,7 @@ Install this library where you want to use it:
 
 {
     "require": {
-        "mahdy/wpnonce" : "1.0.0"
+        "gocep/wpnonce" : "1.0.0"
     }
 }
 
