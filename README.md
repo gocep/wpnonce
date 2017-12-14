@@ -12,7 +12,7 @@ or via editing composer.json file and then use composer update
 ```JSON
 {
     "require": {
-        "mahdy/wpnonce" : "1.0.0"
+        "gocep/wpnonce" : "1.0.0"
     }
 }
 ```
